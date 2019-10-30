@@ -15,5 +15,6 @@ CITreeView created to implement and maintain that wanted TreeView structures for
   s.ios.deployment_target = '10.0'
   s.source_files = "CITreeViewClasses/*.swift"
 
+  s.swift_version = '4.0'
 
 end
